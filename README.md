@@ -2,7 +2,7 @@
 
 We created this Traveling web page template using MERN development! (MongoDB, Express, React and NodeJS)
 
-##Visit our page
+## Visit our page
 Visit our deployed website on Heroku
 
 [Traveling Web Page](https://blogpost-up-project.herokuapp.com/)

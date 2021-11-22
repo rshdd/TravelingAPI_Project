@@ -5,7 +5,7 @@ We created this Traveling web page template using MERN development! (MongoDB, Ex
 ## Visit our page
 Visit our deployed website on Heroku
 
-[Traveling Web Page](https://blogpost-up-project.herokuapp.com/)
+[Traveling Web Page](https://traveling-api-project.herokuapp.com/)
 
 ## Contributing
 Pull request are off for this project

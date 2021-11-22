@@ -1,0 +1,1 @@
+export  const RESPONSE_CODE_SUCCESS = 1;
